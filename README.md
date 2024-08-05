@@ -1,16 +1,14 @@
-## Hi there 👋
+## bem vindo ao meu perfil 👋
 
-<!--
-**sophialima333/sophialima333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+eu me chamo Sophia
 
-Here are some ideas to get you started:
+- estou estudando no Alura.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- estou fazendo Alura pois estou sendo obrigada.
+
+- eu gosto de patos.
+
+- patos são legais.
+
+
+![](https://media.tenor.com/mcpNuaDanYwAAAAi/duck-ducky.gif)
